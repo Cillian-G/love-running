@@ -1,3 +1,6 @@
-h1 {
-    font-family:"arial";
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+
+body {
+    font-family: Lato, sans-serif;
+    font-weight: 300;
 }
